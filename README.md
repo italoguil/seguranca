@@ -1,1 +1,1 @@
-# Repositorio destinado a tarefas de TÓPICOS ESPECIAIS EM SEGURANÇA DA INFORMAÇÃO I.
+# Repositorio destinado a tarefas de Tópicos especiais em segurança da informação I. 
